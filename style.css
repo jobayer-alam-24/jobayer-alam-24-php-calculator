@@ -1,0 +1,35 @@
+body{
+    margin: 2%;
+    background-color: rgb(10, 29, 83);
+}
+input{
+    display: block;
+    margin-bottom: 2%;
+}
+select{
+    font-size: 1.2rem;
+    appearance: none;
+    padding: .6%;
+    margin-bottom: 2%;
+}
+input{
+    outline: none;
+    width: 100%;
+    padding: 1% 0;
+    color: white;
+    font-size: 2rem;
+    background-color: #7ba3cc;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.result{
+    color: white;
+}
+.error{
+    color: red;
+}
